@@ -1,2 +1,2 @@
 # openhpsdr
-Package of functions for HPSDR p1 protocol
+Package of routines to allow the programming of the openhpsdr boards with the original protocol 

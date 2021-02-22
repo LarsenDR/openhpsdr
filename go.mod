@@ -1,3 +1,3 @@
-module github.com/kv0s/openhpsdr
+module github.com/larsen/openhpsdr
 
 go 1.15

@@ -1,3 +1,3 @@
-module github.com/larsendr/openhpsdr
+module github/larsendr
 
-go 1.15
+go 1.16
